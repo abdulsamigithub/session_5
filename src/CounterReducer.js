@@ -1,4 +1,4 @@
-const { default: Child } = require("./Child")
+//const { default: Child } = require("./Child")
 
 const counterReducer = (state, action) => {
     switch (action) {
